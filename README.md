@@ -1,1 +1,1 @@
-# Option-Pricing
+# Option Pricing
